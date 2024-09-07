@@ -1,0 +1,6 @@
+- 👋 Olá, sou o Victor!
+- 👀 Estou começando a aprender a programar e estou em busca de aprender e me aprimmorar cada vez mais.
+- 🌱 Atualmente estou aprendendo Python e cursando a faculdade de Análise e Desenvolvimento de Sistemas.
+- 💞️ Eu adoraria colaborar em qualquer projeto feito em Python!
+- 📫 Para me encontrar basta mandar uma mensagem no meu instagram (@Vito.lopesz) ou me encaminhar uma mensagem no meu e-mail (victorhugolopesoliveira@hottmail.com)
+- ⚡ Fato Engraçado: Eu também canto e componho músicas.
